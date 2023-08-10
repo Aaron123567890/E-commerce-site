@@ -118,7 +118,7 @@ if (mysqli_error($db)) {
   <!--end of search-->
 
 </form>
-<i><u><b>OUR AMBISSIONS </b></u></i>
+<i><u><b>OUR AMBITIONS </b></u></i>
 <P> ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
@@ -135,7 +135,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.></p>
 <div class="col-md-12">
 		<footer style="text-align: center; background-color: #ddffaa">
 		&COPY copyright 2018 <br>
-		NSHIMIYIMANA INNOCENT
+		NSHIMIYIMANA Aaron
 		</footer>
 	</div>
 </html>
