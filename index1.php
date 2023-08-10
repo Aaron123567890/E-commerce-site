@@ -1,8 +1,11 @@
 
 
 <?php session_start();
-$_SESSION['username'];
-$_SESSION['pwd'];
+if (isset($_POST['username']) && isset($_POST['pwd'])) {
+    // Your code to process the username and password
+} else {
+    // Handle the case when the indexes are not set
+}
 
 
 ?>
